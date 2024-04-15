@@ -1,3 +1,12 @@
+body {
+	background: #28b1bd;
+	padding: 50px;
+}
+
 h1 {
-	background: #000;
+	color: rgb(253, 253, 253);
+}
+
+img {
+	width: 200px;
 }
